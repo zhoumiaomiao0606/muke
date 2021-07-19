@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9e895f7-c7cb-44e4-acb0-9a6e5a703b48" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\19920\Desktop\workspace\muke\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/zmmcktest/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\zmmcktest\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_INTERNAL" />
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1vZJngf4DUpTDvPY0eo87WXqN38" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chaptal12/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\19920\Desktop\workspace\muke\chaptal7" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="java" />
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\19920\Desktop\workspace\muke\chaptal12\src\main\resources" />
+      <recent name="C:\Users\19920\Desktop\workspace\muke\chaptal13\src\main\resources" />
+      <recent name="C:\Users\19920\Desktop\workspace\muke\chaptal7" />
+      <recent name="C:\Users\19920\Desktop\workspace\muke" />
+      <recent name="C:\Users\19920\Desktop\workspace\muke\chaptal55\src\main\java\com\course\testng" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/19920/Desktop/workspace/muke/chaptal12/src/main/resources/testng.xml">
+    <configuration name="Application (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="chaptal13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.course.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="chaptal10" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/19920/Desktop/workspace/muke/chaptal12/src/main/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="chaptal12" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/chaptal12/src/main/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="chaptal12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.cases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course.cases" />
+      <option name="MAIN_CLASS_NAME" value="com.course.cases.LoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpdateUserInfoTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="chaptal12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.cases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course.cases" />
+      <option name="MAIN_CLASS_NAME" value="com.course.cases.UpdateUserInfoTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpdateUserInfoTest.UpdateUserInfo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="chaptal12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.cases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course.cases" />
+      <option name="MAIN_CLASS_NAME" value="com.course.cases.UpdateUserInfoTest" />
+      <option name="METHOD_NAME" value="UpdateUserInfo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/19920/Desktop/workspace/muke/chaptal12/src/main/resources/testng.xml" />
+        <item itemvalue="Spring Boot.Application (2)" />
+        <item itemvalue="TestNG.UpdateUserInfoTest.UpdateUserInfo" />
+        <item itemvalue="TestNG.UpdateUserInfoTest" />
+        <item itemvalue="TestNG.LoginTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9e895f7-c7cb-44e4-acb0-9a6e5a703b48" name="Default Changelist" comment="" />
+      <created>1626763845209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626763845209</updated>
+      <workItem from="1626763846697" duration="11000" />
+      <workItem from="1626763973929" duration="3484000" />
+      <workItem from="1626830582008" duration="12739000" />
+      <workItem from="1626917019886" duration="16212000" />
+      <workItem from="1626940671732" duration="600000" />
+      <workItem from="1627267047050" duration="787000" />
+      <workItem from="1627352681087" duration="911000" />
+      <workItem from="1627353667868" duration="9610000" />
+      <workItem from="1627436220563" duration="11419000" />
+      <workItem from="1627458770869" duration="2266000" />
+      <workItem from="1627522002118" duration="12498000" />
+      <workItem from="1627624883353" duration="5643000" />
+      <workItem from="1627883675254" duration="7908000" />
+      <workItem from="1627954392962" duration="1642000" />
+      <workItem from="1627956494656" duration="5176000" />
+      <workItem from="1629684155313" duration="1045000" />
+      <workItem from="1629685345512" duration="9136000" />
+      <workItem from="1629856226658" duration="9899000" />
+      <workItem from="1630373381159" duration="10562000" />
+      <workItem from="1630459791510" duration="6665000" />
+      <workItem from="1630996086289" duration="2426000" />
+      <workItem from="1631168745935" duration="6942000" />
+      <workItem from="1631237572173" duration="2664000" />
+      <workItem from="1631501656909" duration="8478000" />
+      <workItem from="1631582722768" duration="10866000" />
+      <workItem from="1631669844754" duration="13307000" />
+      <workItem from="1631755373899" duration="10826000" />
+      <workItem from="1631844554530" duration="7624000" />
+      <workItem from="1631865742772" duration="772000" />
+      <workItem from="1631928419745" duration="2371000" />
+      <workItem from="1631944649107" duration="332000" />
+      <workItem from="1631945003614" duration="4096000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chaptal5/src/main/java/com/course/testng/groups/groupmothodtest.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chaptal5/src/main/java/com/course/testng/suite/timeouttest.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chaptal9/src/main/java/com/course/httpclient/getcookies/postcookies.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/chaptal12/src/main/java/com/course/cases/UpdateUserInfoTest.java</url>
+          <line>3</line>
+          <properties class="com.course.cases.UpdateUserInfoTest">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
