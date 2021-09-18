@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [测试接口]">
+  <listeners>
+    <listener class-name="com.course.config.extenttestngreportlistener"/>
+  </listeners>
+  <test name="测试具体接口(failed)">
+    <classes>
+      <class name="com.course.cases.GetUserInfoTest">
+        <methods>
+          <include name="GetUserInfo"/>
+        </methods>
+      </class> <!-- com.course.cases.GetUserInfoTest -->
+      <class name="com.course.cases.LoginTest">
+        <methods>
+          <include name="LoginFalse"/>
+          <include name="befortest"/>
+          <include name="LoginTrue"/>
+        </methods>
+      </class> <!-- com.course.cases.LoginTest -->
+      <class name="com.course.cases.AddUserTest">
+        <methods>
+          <include name="AddUserTest"/>
+        </methods>
+      </class> <!-- com.course.cases.AddUserTest -->
+      <class name="com.course.cases.UpdateUserInfoTest">
+        <methods>
+          <include name="UpdateUserInfo"/>
+          <include name="DeleteUserInfo"/>
+        </methods>
+      </class> <!-- com.course.cases.UpdateUserInfoTest -->
+      <class name="com.course.cases.GetUserListTest">
+        <methods>
+          <include name="GetUserListTest"/>
+        </methods>
+      </class> <!-- com.course.cases.GetUserListTest -->
+    </classes>
+  </test> <!-- 测试具体接口(failed) -->
+</suite> <!-- Failed suite [测试接口] -->

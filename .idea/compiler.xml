@@ -7,22 +7,25 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="muke" />
+        <module name="chaptal11" />
+        <module name="chaptal10" />
+        <module name="chaptal9" />
+        <module name="chaptal13" />
         <module name="chaptal6" />
         <module name="chaptal5" />
-        <module name="chaptal10" />
-        <module name="chaptal11" />
-        <module name="chaptal9" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="chaptal10" target="1.8" />
-      <module name="chaptal11" target="1.8" />
+      <module name="chaptal10" target="1.5" />
+      <module name="chaptal11" target="1.5" />
+      <module name="chaptal13" target="1.5" />
       <module name="chaptal5" target="1.5" />
       <module name="chaptal5 (1)" target="1.5" />
       <module name="chaptal5 (2)" target="1.5" />
-      <module name="chaptal6" target="1.8" />
-      <module name="chaptal9" target="1.8" />
-      <module name="muke" target="1.8" />
+      <module name="chaptal6" target="1.5" />
+      <module name="chaptal9" target="1.5" />
+      <module name="muke" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

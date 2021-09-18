@@ -1,0 +1,4 @@
+com\course\config\SwaggerUI.class
+com\course\modle\User.class
+com\course\Controller\UsreManager.class
+com\course\Application.class
