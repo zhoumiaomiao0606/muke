@@ -1,0 +1,16 @@
+[{
+  "description": "这是一个带cookies得get请求",
+  "request": {
+    "uri": "get/withcookies",
+    "method": "get",
+    "cookies": {
+      "login": "true"}
+  },
+  "response": {
+    "text": "这是一个带cookie得get请求",
+  },
+  "headers": {
+    "Content-Type": "text/html;charset=gbk"
+  }
+
+}]

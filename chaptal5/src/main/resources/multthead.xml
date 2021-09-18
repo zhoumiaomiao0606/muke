@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<suite name="mult"  parallel="methods" thread-count="2">
+    <test name="multname">
+        <classes>
+            <class name="com.course.testng.multthread.multthreadxml"/>
+        </classes>
+    </test>
+</suite>
+<!--
+methods级别：所有用力都可以在不同线程下执行
+thread-count：并发最大的线程数
+xml文件配置不能指定线程池，只有方法上面可以用
+tests级别：不同test   tag下得用例可以在不同线程下执行
+同一tag下的用例只能在同一线程下执行，test指的是xml配置中的<test 标签
+classs  :相同的class   tag 下的用例只能在同一线程下执行，不同clss  tag下的可以用不同线程。记住<classes  标签要加name
+-->

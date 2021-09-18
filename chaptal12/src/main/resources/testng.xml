@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suit name="测试接口">
+    <test name="测试具体接口">
+        <classes>
+            <class name="com.course.cases.LoginTest">
+            <methods>
+                <include name="LoginTrue"/>
+                <include name="LoginFalse"/>
+
+            </methods>
+            </class>
+            <class name="com.course.cases.AddUserTest">
+                <methods>
+                    <include name="AddUser"/>
+                </methods>
+            </class>
+            <class name="com.course.cases.GetUserInfoTest">
+                <methods>
+                    <include name="GetUserInfo"/>
+                </methods>
+            </class>
+            <class name="com.course.cases.GetUserListTest">
+                <methods>
+                    <include name="GetUserList"/>
+                </methods>
+            </class>
+            <class name="com.course.cases.UpdateUserInfoTest">
+                <methods>
+                    <include name="UpdateUserInfo"/>
+                    <include name="DeleteUserInfo"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suit>
+
+
+
+

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="chaptal6" />
+        <module name="chaptal5" />
+        <module name="chaptal10" />
+        <module name="chaptal11" />
+        <module name="chaptal9" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="chaptal10" target="1.8" />
+      <module name="chaptal11" target="1.8" />
+      <module name="chaptal5" target="1.5" />
+      <module name="chaptal5 (1)" target="1.5" />
+      <module name="chaptal5 (2)" target="1.5" />
+      <module name="chaptal6" target="1.8" />
+      <module name="chaptal9" target="1.8" />
+      <module name="muke" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="chaptal10" options="-parameters" />
+      <module name="chaptal11" options="-parameters" />
+      <module name="chaptal6" options="-parameters" />
+      <module name="chaptal9" options="-parameters" />
+    </option>
+  </component>
+</project>
