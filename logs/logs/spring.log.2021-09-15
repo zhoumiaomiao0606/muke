@@ -1,0 +1,195 @@
+2021-09-15 11:45:57.884 [main] INFO  com.course.Application - Starting Application using Java 1.8.0_101 on DESKTOP-RVNF9VC with PID 34592 (C:\Users\19920\Desktop\workspace\muke\chaptal13\target\classes started by 19920 in C:\Users\19920\Desktop\workspace\muke)
+2021-09-15 11:45:57.892 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2021-09-15 11:45:58.892 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2021-09-15 11:45:59.448 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2021-09-15 11:45:59.457 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-09-15 11:45:59.457 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-09-15 11:45:59.589 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-09-15 11:45:59.589 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1644 ms
+2021-09-15 11:46:00.532 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2021-09-15 11:46:00.533 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2021-09-15 11:46:00.552 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-09-15 11:46:00.564 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2021-09-15 11:46:00.763 [main] INFO  com.course.Application - Started Application in 3.379 seconds (JVM running for 5.067)
+2021-09-15 11:46:28.319 [http-nio-8888-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-15 11:46:28.320 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-09-15 11:46:28.321 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-09-15 11:46:28.475 [http-nio-8888-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-09-15 11:46:30.591 [http-nio-8888-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-09-15 13:33:10.550 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h12m43s348ms341µs400ns).
+2021-09-15 14:09:20.337 [main] INFO  com.course.Application - Starting Application using Java 1.8.0_101 on DESKTOP-RVNF9VC with PID 19704 (C:\Users\19920\Desktop\workspace\muke\chaptal13\target\classes started by 19920 in C:\Users\19920\Desktop\workspace\muke)
+2021-09-15 14:09:20.345 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2021-09-15 14:09:21.816 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2021-09-15 14:09:22.544 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2021-09-15 14:09:22.554 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-09-15 14:09:22.555 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-09-15 14:09:22.694 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-09-15 14:09:22.695 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2268 ms
+2021-09-15 14:09:23.665 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2021-09-15 14:09:23.666 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2021-09-15 14:09:23.689 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-09-15 14:09:23.705 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2021-09-15 14:09:23.933 [main] INFO  com.course.Application - Started Application in 4.434 seconds (JVM running for 6.157)
+2021-09-15 14:09:43.899 [http-nio-8888-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-15 14:09:43.899 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-09-15 14:09:43.900 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-09-15 14:09:43.986 [http-nio-8888-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-09-15 14:09:44.815 [http-nio-8888-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-09-15 14:20:33.917 [main] INFO  com.course.Application - Starting Application using Java 1.8.0_101 on DESKTOP-RVNF9VC with PID 19996 (C:\Users\19920\Desktop\workspace\muke\chaptal13\target\classes started by 19920 in C:\Users\19920\Desktop\workspace\muke)
+2021-09-15 14:20:33.921 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2021-09-15 14:20:34.827 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2021-09-15 14:20:35.638 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2021-09-15 14:20:35.673 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-09-15 14:20:35.674 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-09-15 14:20:35.917 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-09-15 14:20:35.918 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1950 ms
+2021-09-15 14:20:37.071 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2021-09-15 14:20:37.072 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2021-09-15 14:20:37.089 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-09-15 14:20:37.102 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2021-09-15 14:20:37.328 [main] INFO  com.course.Application - Started Application in 4.807 seconds (JVM running for 6.28)
+2021-09-15 14:22:55.041 [main] INFO  com.course.Application - Starting Application using Java 1.8.0_101 on DESKTOP-RVNF9VC with PID 4776 (C:\Users\19920\Desktop\workspace\muke\chaptal13\target\classes started by 19920 in C:\Users\19920\Desktop\workspace\muke)
+2021-09-15 14:22:55.046 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2021-09-15 14:22:56.033 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2021-09-15 14:22:56.550 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2021-09-15 14:22:56.573 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-09-15 14:22:56.576 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-09-15 14:22:56.721 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-09-15 14:22:56.721 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1622 ms
+2021-09-15 14:22:57.542 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2021-09-15 14:22:57.543 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2021-09-15 14:22:57.556 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-09-15 14:22:57.567 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2021-09-15 14:22:57.787 [main] INFO  com.course.Application - Started Application in 3.504 seconds (JVM running for 4.971)
+2021-09-15 14:23:13.270 [http-nio-8888-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-15 14:23:13.270 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-09-15 14:23:13.271 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-09-15 14:23:13.357 [http-nio-8888-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-09-15 14:23:13.813 [http-nio-8888-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-09-15 14:28:53.892 [main] INFO  com.course.Application - Starting Application using Java 1.8.0_101 on DESKTOP-RVNF9VC with PID 8904 (C:\Users\19920\Desktop\workspace\muke\chaptal13\target\classes started by 19920 in C:\Users\19920\Desktop\workspace\muke)
+2021-09-15 14:28:53.896 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2021-09-15 14:28:54.711 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2021-09-15 14:28:55.183 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2021-09-15 14:28:55.192 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-09-15 14:28:55.192 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-09-15 14:28:55.307 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-09-15 14:28:55.307 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1335 ms
+2021-09-15 14:28:56.065 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2021-09-15 14:28:56.065 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2021-09-15 14:28:56.080 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-09-15 14:28:56.093 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2021-09-15 14:28:56.283 [main] INFO  com.course.Application - Started Application in 3.06 seconds (JVM running for 4.248)
+2021-09-15 14:29:36.546 [http-nio-8888-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-15 14:29:36.547 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-09-15 14:29:36.548 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-09-15 14:29:36.671 [http-nio-8888-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-09-15 14:29:37.167 [http-nio-8888-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-09-15 14:36:14.501 [http-nio-8888-exec-6] WARN  org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver - Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2021-09-15 14:39:43.296 [main] INFO  com.course.Application - Starting Application using Java 1.8.0_101 on DESKTOP-RVNF9VC with PID 8636 (C:\Users\19920\Desktop\workspace\muke\chaptal13\target\classes started by 19920 in C:\Users\19920\Desktop\workspace\muke)
+2021-09-15 14:39:43.299 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2021-09-15 14:39:44.055 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2021-09-15 14:39:44.551 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2021-09-15 14:39:44.561 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-09-15 14:39:44.561 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-09-15 14:39:44.690 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-09-15 14:39:44.691 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1352 ms
+2021-09-15 14:39:45.580 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2021-09-15 14:39:45.583 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2021-09-15 14:39:45.602 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-09-15 14:39:45.614 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2021-09-15 14:39:45.818 [main] INFO  com.course.Application - Started Application in 3.048 seconds (JVM running for 4.487)
+2021-09-15 14:39:52.622 [http-nio-8888-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-15 14:39:52.622 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-09-15 14:39:52.624 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-09-15 14:39:52.728 [http-nio-8888-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-09-15 14:39:53.347 [http-nio-8888-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-09-15 14:43:05.991 [main] INFO  com.course.Application - Starting Application using Java 1.8.0_101 on DESKTOP-RVNF9VC with PID 34056 (C:\Users\19920\Desktop\workspace\muke\chaptal13\target\classes started by 19920 in C:\Users\19920\Desktop\workspace\muke)
+2021-09-15 14:43:05.996 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2021-09-15 14:43:07.043 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2021-09-15 14:43:07.621 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2021-09-15 14:43:07.631 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-09-15 14:43:07.631 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-09-15 14:43:07.771 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-09-15 14:43:07.772 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1694 ms
+2021-09-15 14:43:08.632 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2021-09-15 14:43:08.632 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2021-09-15 14:43:08.646 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-09-15 14:43:08.657 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2021-09-15 14:43:08.876 [main] INFO  com.course.Application - Started Application in 3.583 seconds (JVM running for 4.861)
+2021-09-15 14:43:18.798 [http-nio-8888-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-15 14:43:18.799 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-09-15 14:43:18.800 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-09-15 14:43:18.880 [http-nio-8888-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-09-15 14:43:19.346 [http-nio-8888-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-09-15 15:02:53.000 [main] INFO  com.course.Application - Starting Application using Java 1.8.0_101 on DESKTOP-RVNF9VC with PID 2412 (C:\Users\19920\Desktop\workspace\muke\chaptal13\target\classes started by 19920 in C:\Users\19920\Desktop\workspace\muke)
+2021-09-15 15:02:53.005 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2021-09-15 15:02:54.030 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2021-09-15 15:02:54.573 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2021-09-15 15:02:54.583 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-09-15 15:02:54.584 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-09-15 15:02:54.771 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-09-15 15:02:54.771 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1705 ms
+2021-09-15 15:02:55.719 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2021-09-15 15:02:55.721 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2021-09-15 15:02:55.739 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-09-15 15:02:55.752 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2021-09-15 15:02:55.975 [main] INFO  com.course.Application - Started Application in 3.74 seconds (JVM running for 5.402)
+2021-09-15 15:05:13.590 [http-nio-8888-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-15 15:05:13.590 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-09-15 15:05:13.591 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-09-15 15:05:13.686 [http-nio-8888-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-09-15 15:05:14.133 [http-nio-8888-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-09-15 16:25:22.578 [main] INFO  com.course.Application - Starting Application using Java 1.8.0_101 on DESKTOP-RVNF9VC with PID 892 (C:\Users\19920\Desktop\workspace\muke\chaptal13\target\classes started by 19920 in C:\Users\19920\Desktop\workspace\muke)
+2021-09-15 16:25:22.581 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2021-09-15 16:25:23.851 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2021-09-15 16:25:24.425 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2021-09-15 16:25:24.437 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-09-15 16:25:24.437 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-09-15 16:25:24.582 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-09-15 16:25:24.583 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1948 ms
+2021-09-15 16:25:25.513 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2021-09-15 16:25:25.514 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2021-09-15 16:25:25.534 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-09-15 16:25:25.546 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2021-09-15 16:25:25.823 [main] INFO  com.course.Application - Started Application in 3.905 seconds (JVM running for 5.371)
+2021-09-15 16:25:45.746 [http-nio-8888-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-15 16:25:45.746 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-09-15 16:25:45.747 [http-nio-8888-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-09-15 16:25:45.835 [http-nio-8888-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-09-15 16:25:46.259 [http-nio-8888-exec-1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-09-15 16:31:40.682 [main] INFO  com.course.Application - Starting Application using Java 1.8.0_101 on DESKTOP-RVNF9VC with PID 34424 (C:\Users\19920\Desktop\workspace\muke\chaptal13\target\classes started by 19920 in C:\Users\19920\Desktop\workspace\muke)
+2021-09-15 16:31:40.686 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2021-09-15 16:31:41.664 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2021-09-15 16:31:42.235 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2021-09-15 16:31:42.245 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-09-15 16:31:42.245 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-09-15 16:31:42.377 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-09-15 16:31:42.378 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1610 ms
+2021-09-15 16:31:43.433 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2021-09-15 16:31:43.434 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2021-09-15 16:31:43.450 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-09-15 16:31:43.461 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2021-09-15 16:31:43.690 [main] INFO  com.course.Application - Started Application in 3.767 seconds (JVM running for 5.272)
+2021-09-15 16:31:55.771 [http-nio-8888-exec-2] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-15 16:31:55.771 [http-nio-8888-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-09-15 16:31:55.772 [http-nio-8888-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-09-15 16:31:55.858 [http-nio-8888-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-09-15 16:31:56.590 [http-nio-8888-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2021-09-15 16:32:23.337 [main] INFO  com.course.Application - Starting Application using Java 1.8.0_101 on DESKTOP-RVNF9VC with PID 9988 (C:\Users\19920\Desktop\workspace\muke\chaptal13\target\classes started by 19920 in C:\Users\19920\Desktop\workspace\muke)
+2021-09-15 16:32:23.341 [main] INFO  com.course.Application - No active profile set, falling back to default profiles: default
+2021-09-15 16:32:24.436 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.course]' package. Please check your configuration.
+2021-09-15 16:32:24.945 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2021-09-15 16:32:24.958 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-09-15 16:32:24.958 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.50]
+2021-09-15 16:32:25.097 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2021-09-15 16:32:25.098 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1692 ms
+2021-09-15 16:32:26.168 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2021-09-15 16:32:26.170 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2021-09-15 16:32:26.192 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2021-09-15 16:32:26.207 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2021-09-15 16:32:26.414 [main] INFO  com.course.Application - Started Application in 4.215 seconds (JVM running for 5.678)
+2021-09-15 16:32:41.105 [http-nio-8888-exec-2] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-09-15 16:32:41.105 [http-nio-8888-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2021-09-15 16:32:41.106 [http-nio-8888-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2021-09-15 16:32:41.185 [http-nio-8888-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2021-09-15 16:32:41.870 [http-nio-8888-exec-2] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.

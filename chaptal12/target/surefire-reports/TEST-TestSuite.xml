@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="7" failures="2" name="TestSuite" time="44.649" errors="0" skipped="5">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_101\jre\bin"/>
+    <property name="java.vm.version" value="25.101-b13"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="CN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\19920\Desktop\workspace\muke\chaptal12"/>
+    <property name="java.runtime.version" value="1.8.0_101-b13"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="basedir" value="C:\Users\19920\Desktop\workspace\muke\chaptal12"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_101\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="surefire.real.class.path" value="C:\Users\19920\Desktop\workspace\muke\chaptal12\target\surefire\surefirebooter6438922262889599347.jar"/>
+    <property name="java.io.tmpdir" value="C:\Users\19920\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.jnu.encoding" value="GBK"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_101\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\19920\bin;D:\jmeterinstall\IntelliJ IDEA 2019.2\jbr\bin;D:\jmeterinstall\IntelliJ IDEA 2019.2\jbr\bin\server;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\WiFi\bin;C:\Program Files\Common Files\Intel\WirelessCommon;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Java\jdk1.8.0_101\bi;C:\Program Files\Java\jdk1.8.0_101\jre\bin&quot;;D:\安装包\Git\cmd;anzhuangbao\Git\cmd;C:\Program Files\TortoiseSVN\bin;D:\BaiduNetdiskDownload\mysql-8.0.15-winx64\bin;C:\Program Files\Git\cmd;C:\Users\19920\Desktop\工作文件\apache-jmeter-5.3\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files (x86)\NetSarang\Xftp 7;C:\Program Files (x86)\NetSarang\Xshell 7;D:\zmmcktest\apache-maven-3.6.0\bin;C:\Users\19920\AppData\Local\Microsoft\WindowsApps;C:\Users\19920\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\19920\AppData\Local\Programs\Fiddler;C:\Users\19920\AppData\Local\Microsoft\WindowsApps;C:\Users\19920\Desktop\adb\platform-tools_r31.0.3-windows\platform-tools;."/>
+    <property name="surefire.test.class.path" value="C:\Users\19920\Desktop\workspace\muke\chaptal12\target\test-classes;C:\Users\19920\Desktop\workspace\muke\chaptal12\target\classes;D:\mvn\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;D:\mvn\org\mybatis\caches\mybatis-ehcache\1.2.1\mybatis-ehcache-1.2.1.jar;D:\mvn\net\sf\ehcache\ehcache\2.10.9.2\ehcache-2.10.9.2.jar;D:\mvn\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar;D:\mvn\org\apache\httpcomponents\httpclient\4.1.2\httpclient-4.1.2.jar;D:\mvn\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar;D:\mvn\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;D:\mvn\org\json\json\20170516\json-20170516.jar;D:\mvn\org\mybatis\mybatis\3.4.4\mybatis-3.4.4.jar;D:\mvn\mysql\mysql-connector-java\5.1.6\mysql-connector-java-5.1.6.jar;D:\mvn\org\projectlombok\lombok\1.16.14\lombok-1.16.14.jar;D:\mvn\com\relevantcodes\extentreports\2.41.1\extentreports-2.41.1.jar;D:\mvn\org\jsoup\jsoup\1.8.3\jsoup-1.8.3.jar;D:\mvn\org\xerial\sqlite-jdbc\3.34.0\sqlite-jdbc-3.34.0.jar;D:\mvn\org\freemarker\freemarker\2.3.31\freemarker-2.3.31.jar;D:\mvn\org\mongodb\mongodb-driver\3.0.4\mongodb-driver-3.0.4.jar;D:\mvn\org\mongodb\bson\4.2.3\bson-4.2.3.jar;D:\mvn\org\mongodb\mongodb-driver-core\4.2.3\mongodb-driver-core-4.2.3.jar;D:\mvn\com\vimalselvam\testng-extentsreport\1.3.1\testng-extentsreport-1.3.1.jar;D:\mvn\org\testng\testng\6.10\testng-6.10.jar;D:\mvn\com\beust\jcommander\1.48\jcommander-1.48.jar;D:\mvn\com\google\guava\guava\20.0\guava-20.0.jar;D:\mvn\com\aventstack\extentreports\3.0.6\extentreports-3.0.6.jar;D:\mvn\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\19920"/>
+    <property name="user.timezone" value="Asia/Shanghai"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="GBK"/>
+    <property name="user.name" value="19920"/>
+    <property name="java.class.path" value="C:\Users\19920\Desktop\workspace\muke\chaptal12\target\test-classes;C:\Users\19920\Desktop\workspace\muke\chaptal12\target\classes;D:\mvn\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;D:\mvn\org\mybatis\caches\mybatis-ehcache\1.2.1\mybatis-ehcache-1.2.1.jar;D:\mvn\net\sf\ehcache\ehcache\2.10.9.2\ehcache-2.10.9.2.jar;D:\mvn\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar;D:\mvn\org\apache\httpcomponents\httpclient\4.1.2\httpclient-4.1.2.jar;D:\mvn\org\apache\httpcomponents\httpcore\4.4.14\httpcore-4.4.14.jar;D:\mvn\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;D:\mvn\org\json\json\20170516\json-20170516.jar;D:\mvn\org\mybatis\mybatis\3.4.4\mybatis-3.4.4.jar;D:\mvn\mysql\mysql-connector-java\5.1.6\mysql-connector-java-5.1.6.jar;D:\mvn\org\projectlombok\lombok\1.16.14\lombok-1.16.14.jar;D:\mvn\com\relevantcodes\extentreports\2.41.1\extentreports-2.41.1.jar;D:\mvn\org\jsoup\jsoup\1.8.3\jsoup-1.8.3.jar;D:\mvn\org\xerial\sqlite-jdbc\3.34.0\sqlite-jdbc-3.34.0.jar;D:\mvn\org\freemarker\freemarker\2.3.31\freemarker-2.3.31.jar;D:\mvn\org\mongodb\mongodb-driver\3.0.4\mongodb-driver-3.0.4.jar;D:\mvn\org\mongodb\bson\4.2.3\bson-4.2.3.jar;D:\mvn\org\mongodb\mongodb-driver-core\4.2.3\mongodb-driver-core-4.2.3.jar;D:\mvn\com\vimalselvam\testng-extentsreport\1.3.1\testng-extentsreport-1.3.1.jar;D:\mvn\org\testng\testng\6.10\testng-6.10.jar;D:\mvn\com\beust\jcommander\1.48\jcommander-1.48.jar;D:\mvn\com\google\guava\guava\20.0\guava-20.0.jar;D:\mvn\com\aventstack\extentreports\3.0.6\extentreports-3.0.6.jar;D:\mvn\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_101\jre"/>
+    <property name="sun.java.command" value="C:\Users\19920\Desktop\workspace\muke\chaptal12\target\surefire\surefirebooter6438922262889599347.jar C:\Users\19920\Desktop\workspace\muke\chaptal12\target\surefire\surefire4832702228236122026tmp C:\Users\19920\Desktop\workspace\muke\chaptal12\target\surefire\surefire5969161413842545577tmp"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="zh"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_101"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_101\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_101\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_101\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_101\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="localRepository" value="D:\mvn"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="com.course.cases.LoginTest" name="LoginTrue" time="21.829">
+    <failure message="
+### Error querying database.  Cause: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+### The error may exist in mapper/SQLMapper.xml
+### The error may involve com.course.modle.LoginTrueCase
+### The error occurred while executing a query
+### Cause: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago." type="org.apache.ibatis.exceptions.PersistenceException">org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+Last packet sent to the server was 0 ms ago.
+### The error may exist in mapper/SQLMapper.xml
+### The error may involve com.course.modle.LoginTrueCase
+### The error occurred while executing a query
+### Cause: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+Last packet sent to the server was 0 ms ago.
+	at org.apache.ibatis.exceptions.ExceptionFactory.wrapException(ExceptionFactory.java:30)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:150)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:141)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:77)
+	at com.course.cases.LoginTest.LoginTrue(LoginTest.java:34)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.&lt;init&gt;(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.&lt;init&gt;(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:208)
+	at org.apache.ibatis.datasource.unpooled.UnpooledDataSource.doGetConnection(UnpooledDataSource.java:201)
+	at org.apache.ibatis.datasource.unpooled.UnpooledDataSource.doGetConnection(UnpooledDataSource.java:196)
+	at org.apache.ibatis.datasource.unpooled.UnpooledDataSource.getConnection(UnpooledDataSource.java:93)
+	at org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:385)
+	at org.apache.ibatis.datasource.pooled.PooledDataSource.getConnection(PooledDataSource.java:89)
+	at org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:138)
+	at org.apache.ibatis.transaction.jdbc.JdbcTransaction.getConnection(JdbcTransaction.java:60)
+	at org.apache.ibatis.executor.BaseExecutor.getConnection(BaseExecutor.java:336)
+	at org.apache.ibatis.executor.SimpleExecutor.prepareStatement(SimpleExecutor.java:84)
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:62)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:324)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:109)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:83)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:148)
+	... 37 more
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.&lt;init&gt;(Socket.java:434)
+	at java.net.Socket.&lt;init&gt;(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.&lt;init&gt;(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 63 more
+</failure>
+    <system-out>@HL
+@HL-------------------------------------------------------
+@HL T E S T S
+@HL-------------------------------------------------------
+@SLRunning TestSuite
+[TestNGContentHandler] [WARN] It is strongly recommended to add &quot;&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot; &gt;&quot; at the top of your file, otherwise TestNG may fail or not work as expected.
+</system-out>
+    <system-err>SLF4J: Failed to load class &quot;org.slf4j.impl.StaticLoggerBinder&quot;.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+</system-err>
+  </testcase>
+  <testcase classname="com.course.cases.LoginTest" name="LoginFalse" time="21.065">
+    <failure message="
+### Error querying database.  Cause: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+### The error may exist in mapper/SQLMapper.xml
+### The error may involve com.course.modle.LoginTrueCase
+### The error occurred while executing a query
+### Cause: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+Last packet sent to the server was 0 ms ago." type="org.apache.ibatis.exceptions.PersistenceException">org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+Last packet sent to the server was 0 ms ago.
+### The error may exist in mapper/SQLMapper.xml
+### The error may involve com.course.modle.LoginTrueCase
+### The error occurred while executing a query
+### Cause: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+Last packet sent to the server was 0 ms ago.
+	at org.apache.ibatis.exceptions.ExceptionFactory.wrapException(ExceptionFactory.java:30)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:150)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:141)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:77)
+	at com.course.cases.LoginTest.LoginFalse(LoginTest.java:64)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+Last packet sent to the server was 0 ms ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1074)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2103)
+	at com.mysql.jdbc.ConnectionImpl.&lt;init&gt;(ConnectionImpl.java:718)
+	at com.mysql.jdbc.JDBC4Connection.&lt;init&gt;(JDBC4Connection.java:46)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:406)
+	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:302)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:282)
+	at java.sql.DriverManager.getConnection(DriverManager.java:664)
+	at java.sql.DriverManager.getConnection(DriverManager.java:208)
+	at org.apache.ibatis.datasource.unpooled.UnpooledDataSource.doGetConnection(UnpooledDataSource.java:201)
+	at org.apache.ibatis.datasource.unpooled.UnpooledDataSource.doGetConnection(UnpooledDataSource.java:196)
+	at org.apache.ibatis.datasource.unpooled.UnpooledDataSource.getConnection(UnpooledDataSource.java:93)
+	at org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:385)
+	at org.apache.ibatis.datasource.pooled.PooledDataSource.getConnection(PooledDataSource.java:89)
+	at org.apache.ibatis.transaction.jdbc.JdbcTransaction.openConnection(JdbcTransaction.java:138)
+	at org.apache.ibatis.transaction.jdbc.JdbcTransaction.getConnection(JdbcTransaction.java:60)
+	at org.apache.ibatis.executor.BaseExecutor.getConnection(BaseExecutor.java:336)
+	at org.apache.ibatis.executor.SimpleExecutor.prepareStatement(SimpleExecutor.java:84)
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:62)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:324)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:109)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:83)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:148)
+	... 37 more
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:79)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at java.net.Socket.connect(Socket.java:538)
+	at java.net.Socket.&lt;init&gt;(Socket.java:434)
+	at java.net.Socket.&lt;init&gt;(Socket.java:244)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:253)
+	at com.mysql.jdbc.MysqlIO.&lt;init&gt;(MysqlIO.java:280)
+	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2026)
+	... 63 more
+</failure>
+  </testcase>
+  <testcase classname="com.course.cases.AddUserTest" name="AddUserTest" time="21.067">
+    <skipped/>
+  </testcase>
+  <testcase classname="com.course.cases.GetUserInfoTest" name="GetUserInfo" time="21.067">
+    <skipped/>
+  </testcase>
+  <testcase classname="com.course.cases.GetUserListTest" name="GetUserListTest" time="21.067">
+    <skipped/>
+  </testcase>
+  <testcase classname="com.course.cases.UpdateUserInfoTest" name="UpdateUserInfo" time="21.067">
+    <skipped/>
+  </testcase>
+  <testcase classname="com.course.cases.UpdateUserInfoTest" name="DeleteUserInfo" time="21.067">
+    <skipped/>
+  </testcase>
+</testsuite>
