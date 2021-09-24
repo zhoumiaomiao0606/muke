@@ -1,0 +1,42 @@
+[
+  {
+    "description": "这是一个不带参数得get请求",
+    "request": {
+      "uri": "/startupwithget",
+      "method": "get"
+    },
+    "response": {
+      "text": "这是个不带参数得get请求",
+      "headers": {
+        "Content-Type": "text/html;charset=gbk"
+      }
+    }
+  },
+
+
+{
+  "description": "这是一个带参数得get请求",
+  "request": {
+    "uri":"/startupwithparamget",
+    "method": "get",
+    "queries": {
+      "name": "zhoumiaomiao",
+      "age": "100"
+    }
+  },
+  "response":{
+    "text": "这是一个带参get方法得测试",
+    "headers": {
+      "Content-Type": "text/html;charset=gbk"
+    }
+  }
+
+
+
+
+
+
+}
+
+
+]

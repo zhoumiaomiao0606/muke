@@ -6,4 +6,14 @@
     <select id="getUserCount" resultType="Integer">
         select count(*) from user;
     </select>
+    <insert id="adduser" parameterType="com.course.model.User">
+        insert into user (id,email,password,registertime) values (#{id},#{email},#{password},#{registertime})
+    </insert>
+    <update id="updateuser" parameterType="com.course.model.User">
+        update user set email=#{email},password=#{password},registertime=#{registertime}
+         where id=#{id}
+    </update>
+    <delete id="deletuser" parameterType="Integer">
+        delete from user where id=#{id}
+    </delete>
 </mapper>

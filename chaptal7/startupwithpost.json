@@ -1,0 +1,34 @@
+[{
+    "description": "这是我的post请求",
+    "request": {
+      "uri": "/startupwithpost",
+      "method": "post"
+    },
+    "response": {
+      "text": "这是我得第一个post请求",
+      "headers": {
+        "Content-Type": "text/html;charset=gbk"
+      }
+    }},
+
+
+
+
+  {
+    "description": "这是一个带参数得post测试",
+    "request": {
+      "uri": "/startupwithparampost",
+      "method": "post",
+      "forms": {
+        "name": "zhouzhou",
+        "age": "18"
+      }
+    },
+    "response": {
+      "text": "这是一个带参数得post请求"
+    }
+  }
+
+]
+
+

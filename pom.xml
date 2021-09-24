@@ -3,18 +3,34 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
+    <parent>
 
-    <groupId>com.muke.course</groupId>
-    <artifactId>chaptal55</artifactId>
+    <groupId>org.springframework.boot</groupId>
+
+    <artifactId>spring-boot-starter-parent</artifactId>
+
+    <version>2.5.3</version>
+
+    <relativePath/>
+
+    <!-- lookup parent from repository -->
+
+
+</parent>
+    <groupId>com.course.code</groupId>
+    <artifactId>chaptal</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
-    <dependencies>
-        <dependency>
-            <groupId>org.testng</groupId>
-            <artifactId>testng</artifactId>
-            <version>6.10</version>
-            <scope>compile</scope>
-        </dependency>
-    </dependencies>
 
+<modules>
+    <module> chaptal5</module>
+    <module>chaptal6</module>
+    <module>chaptal9</module>
+    <module>chaptal10</module>
+    <module>chaptal11</module>
+    <module>chaptal12</module>
+    <module>chaptal13</module>
+
+</modules>
 
 </project>

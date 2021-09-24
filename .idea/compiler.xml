@@ -7,31 +7,34 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="muke" />
+        <module name="chaptal13" />
+        <module name="chaptal12" />
         <module name="chaptal11" />
         <module name="chaptal10" />
         <module name="chaptal9" />
-        <module name="chaptal13" />
         <module name="chaptal6" />
         <module name="chaptal5" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="chaptal10" target="1.5" />
-      <module name="chaptal11" target="1.5" />
-      <module name="chaptal13" target="1.5" />
+      <module name="chaptal10" target="1.8" />
+      <module name="chaptal11" target="1.8" />
+      <module name="chaptal12" target="1.8" />
+      <module name="chaptal13" target="1.8" />
       <module name="chaptal5" target="1.5" />
       <module name="chaptal5 (1)" target="1.5" />
       <module name="chaptal5 (2)" target="1.5" />
-      <module name="chaptal6" target="1.5" />
-      <module name="chaptal9" target="1.5" />
-      <module name="muke" target="1.5" />
+      <module name="chaptal6" target="1.8" />
+      <module name="chaptal9" target="1.8" />
+      <module name="muke" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="chaptal10" options="-parameters" />
       <module name="chaptal11" options="-parameters" />
+      <module name="chaptal12" options="-parameters" />
+      <module name="chaptal13" options="-parameters -extdirs C:\Users\19920\Desktop\workspace\muke\chaptal13/lib" />
       <module name="chaptal6" options="-parameters" />
       <module name="chaptal9" options="-parameters" />
     </option>

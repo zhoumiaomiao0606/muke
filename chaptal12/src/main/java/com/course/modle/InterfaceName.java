@@ -1,4 +1,7 @@
 package com.course.modle;
 
-public class InterfaceName {
-}
+
+
+    public enum InterfaceName{
+GETUSERLIST,LOGIN,ADDUSER,GETUSERINFO,UPDATEUSERINFO
+    }

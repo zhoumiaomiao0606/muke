@@ -8,8 +8,8 @@ spring:
   application:
     name: myTest
   datasource:
-    driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://47.111.229.252:3306/zmmcktest
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://47.111.229.252:3306/course
     username: root
     password: cktest
 

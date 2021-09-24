@@ -1,0 +1,34 @@
+[{
+  "description": "测试重定向到自己的系统",
+  "request": {
+    "uri": "/direct"
+  },
+  "redirectTo":"http://system.yunchejinrong.com/order"
+
+},
+  {
+    "description": "原数据",
+    "request": {
+      "uri": "/redirect"
+    },
+    "redirectTo": "/local"
+  },
+  {
+    "description": "xx需要访问的数据",
+    "request": {
+      "uri": "/local"
+    },
+    "response": {
+      "text": "这是重定向后的内容",
+      "headers": {
+        "Content-Type": "text/html;charset=gbk"
+      }
+    }
+  }
+
+
+
+
+
+
+]

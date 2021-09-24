@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.muke.course</groupId>
-    <artifactId>chaptal55</artifactId>
+    <artifactId>chaptal5</artifactId>
     <version>1.0-SNAPSHOT</version>
     <dependencies>
         <dependency>
